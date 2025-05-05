@@ -17,7 +17,7 @@ I'm learning Python, C++, Java Script, HTML not so long, but i try to do FiveM c
 src="https://img.shields.io/github/followers/Trop1c0?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 
 ## My Skill Set  
-<table><tr><td valign="top" width="33%">
+<div align="center">
                     
 ### Backend  
 <div align="center">  
