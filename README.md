@@ -1,3 +1,7 @@
+<div align="center">
+<img src="https://tenor.com/ru/view/snake-nokia-3310-snake-nokia-3310-gif-1504875132242584968" align="center" style="width: 100%" />
+</div>  
+
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Decay Development (Igor)
 ================================================================================================================================================
 
