@@ -2,7 +2,7 @@
 <img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" align="center" style="width: 100%" />
 </div>  
 
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Decay Development (Igor)
+Hi ![](https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif)My name is Decay Development (Igor)
 ================================================================================================================================================
 
 Python DEV, FiveM Scripts Developer.
