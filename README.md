@@ -35,7 +35,7 @@ src="https://img.shields.io/github/followers/Trop1c0?logo=github&style=for-the-b
 
 </td><td valign="top" width="33%">
 
-### Skills
+### Zovchik
 
 
 <p align="left">
