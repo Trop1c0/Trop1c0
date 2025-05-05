@@ -16,6 +16,20 @@ I'm learning Python, C++, Java Script, HTML not so long, but i try to do FiveM c
 <a href="https://www.github.com/Trop1c0" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/Trop1c0?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 
+## Connect with me  
+<div align="center">
+<a href="https://github.com/Trop1c0" target="_blank">
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+</a>
+<a href="https://www.youtube.com/@DecayDevelopment" target="_blank">
+<img src=https://img.shields.io/badge/youtube-%2308090A.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" /> https://img.shields.io/badge/youtube-%2308090A.svg
+</a>
+<a href="https://discord.gg/drfXajCup7" target="_blank">
+<img src=https://img.shields.io/badge/discord-%2308090A.svg?&style=for-the-badge&logo=dev.to&logoColor=white alt=devto style="margin-bottom: 5px;" />
+</a>
+</div>  
+  
+
 ### Skills
 
 
