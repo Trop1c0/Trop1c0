@@ -1,4 +1,4 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Decay Development (Igor)
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Decay Development (Mark)
 ================================================================================================================================================
 
 Python DEV, FiveM Scripts Developer.
@@ -7,11 +7,10 @@ Python DEV, FiveM Scripts Developer.
 I'm learning Python, C++, Java Script, HTML not so long, but i try to do FiveM community much better, than now. I'm doing interesting scripts and upload them for low price or for free.
 
 * 🌍  I'm based in Rostov, Russia.
-* 🖥️  See my portfolio at [Decay Development](http://https://discord.gg/drfXajCup7)
 * ✉️  You can contact me at [kurdanovtrikolor@gmail.com](mailto:kurdanovtrikolor@gmail.com)
-* 🚀  I'm currently working on [Decay Resource Packer](http://https://ibb.org.ru/1/NB6clr)
+* 🚀  I'm currently working on
 * 🧠  I'm learning Node JS
-* 🤝  I'm open to collaborating on interesting FiveM scripts and projects
+* 🤝  I'm open to collaborating on interesting DayZ scripts and projects
 
 <a href="https://www.github.com/Trop1c0" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/Trop1c0?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
